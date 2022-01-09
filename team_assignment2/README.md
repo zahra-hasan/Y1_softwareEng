@@ -2,7 +2,7 @@
 # The Project objective
 The project objective was to implement a mentor-mentee matching web system for the University of Sheffield	. This application will allow mentors and mentees to set up profiles, and will match them based on their industry. Mentees will be able to send requests to mentors, who can then choose to accept or reject them. This system will be developed solely for use by The University of Sheffield. 		
 # The development process
-The process was done in an agile development environment (read more in the assignment2 and assignment1 brief).
+The process was done in an agile development environment (read more in the assignment2 and assignment1 brief). For my part, look at the mockups and screenshots folder and you will see pictures of the mockup design for the website as well as a simple html and css files for basic implementation of user page.
 # The final result
 According to the client feedback, 98% of the desired functionalities were implemented. Specifically, I was assigned to work on the views (front-end) mainly as well as creating the mock-ups designs for the website. The resulting implementation of the design was professional and easy to navigate and the layout with the university logo looked very good according to the client. 
 # What I have learned
