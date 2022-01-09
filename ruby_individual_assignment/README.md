@@ -1,7 +1,7 @@
 # Ruby individual assignment
 This assignment was done using a web-based development environment called Codio.
-# assignment link
+# Assignment link
 https://codio.com/zal-hilal/shopping-assistant---individual-assignment
-# mark
+# Mark
 71
 
