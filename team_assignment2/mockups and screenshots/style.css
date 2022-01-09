@@ -1,0 +1,133 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;  
+}
+/*index.html csss*/
+#welcome-section {
+    text-align: center;
+    padding: 10%;
+    flex: 50%;  
+    background-image: url(/background.jpeg);
+    background-repeat: no-repeat;
+}
+
+#welcome-section h1 {
+    color: white;
+    font-size: 300%;
+}
+#welcome-section h1:hover{
+    font-size: 305%;
+    transition: 0.5s;
+    
+}
+#welcome-section p {
+    color: #14213D;
+}
+#welcome-section p:hover{
+    color:white;
+    background-color: #14213D;
+    transition: 0.5s;
+}
+
+#sign-in-section{
+    flex: 50%;
+    justify-content: center;
+    padding: 10%;
+    font-size: 150%;
+  
+}
+
+.container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#sign-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#button{
+    background-color: #14213D;
+    color: white;
+    border-radius: 10%;
+   
+}
+
+#button:hover {
+    color: #14213D;
+    background-color:#FCA311;
+    transition: 0.5s;
+}
+
+header figure {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+footer {
+    background-color: #14213D;
+    color: white; 
+}
+
+/*displying the page as two vertical sections*/
+
+#page {
+    display: flex;
+    flex-direction: row;
+    min-height: 100%; /*to make the footer sticky at the bottom*/
+}
+
+/*MyAccount.html css*/
+
+/*aside*/
+aside {
+    background-color: #14213D;
+    width: 30%;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+#profile {
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+}
+
+ #profile img {
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 50%;
+}
+
+nav {
+    height: 70%;
+}
+
+nav li {
+    background-color: #60697B;
+    list-style: none;
+    padding: 10%;
+    margin-bottom: 2%;
+    
+}
+ nav li a {
+    text-decoration: none;
+    color: white;
+}
+nav li:hover{
+    background-color:#2A364F;
+    transition: 0.5s;
+}
+
+/*main*/
+main {
+    padding-left: 10%;
+}
+
