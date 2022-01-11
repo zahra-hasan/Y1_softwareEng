@@ -1,5 +1,5 @@
 # Y1_softwareng_assignments
-These are the assignments for COM1001 introduction to software engineering course that was mainly written in Ruby.
+These are the assignments for introduction to software engineering course that was mainly written in Ruby.
 # What are the assignments included here?
 1- individual assignment that was written in ruby. 
 2- team assignment1 which was focusing on writing software requirements and stories.
